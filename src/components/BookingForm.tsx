@@ -372,6 +372,9 @@ export const BookingForm: React.FC<BookingFormProps> = ({
                         <option value="06:00 PM">06:00 PM (Evening)</option>
                         <option value="09:00 PM">09:00 PM (Late Evening)</option>
                       </select>
+                      <p className="text-[11px] text-purple-300 mt-1.5 leading-relaxed font-medium">
+                        ⚡ 24-Hour Express Turnaround: Book in the morning, receive your complete reading by tomorrow morning!
+                      </p>
                     </div>
                   </div>
 
