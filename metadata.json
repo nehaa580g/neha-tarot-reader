@@ -1,0 +1,6 @@
+{
+  "name": "Celestia - Spiritual Guidance & Astrology Consultation",
+  "description": "High-end, modern consultation website for Tarot Card Reading, Astrology, Palm Reading, Numerology, and Personal Guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
